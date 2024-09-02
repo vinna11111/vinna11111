@@ -7,8 +7,8 @@ https://www.linkedin.com/in/vishweshwar-reddy-challa-795818210/
 
 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+
 
 <!---
 vinna11111/vinna11111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
