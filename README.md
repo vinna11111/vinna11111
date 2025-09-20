@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @vinna11111
-- 👀 I’m interested in theoretical computer Science
-- 🌱 I’m currently doing Btech at IIT Hyderabad
+- 👀 I’m interested in theoretical computer Science, Artificial Intelligence, and Biomedicine.
+- 🌱 I’m currently doing B.Tech in Engineering Science at IIT Hyderabad.
 
 - 📫 How to reach me 
 https://www.linkedin.com/in/vishweshwar-reddy-challa-795818210/
+- My Codeforces handle
+https://codeforces.com/profile/challavishweshwar
+- Leetcode handle
+https://leetcode.com/u/challavishweshwar/
+
+
 
 
 
