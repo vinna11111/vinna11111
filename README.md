@@ -1,5 +1,5 @@
 - Hi, I’m @vinna11111
-- I’m interested in computer Science, Artificial Intelligence, and Biomedicine.
+- I’m interested in Computer Science, Artificial Intelligence, and Biomedicine.
 - I’m currently doing B.Tech in Engineering Science at IIT Hyderabad.
 
 - How to reach me 
